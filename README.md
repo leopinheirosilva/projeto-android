@@ -5,4 +5,4 @@ Clique <a href="https://leopinheirosilva.github.io/projeto-android/">aqui</a> pa
 
 Ou leia o QR code abaixo:
 
-<img>
+<img src="midias/frame.png" alt="Site projeto-android">
