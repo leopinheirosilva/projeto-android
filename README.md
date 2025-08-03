@@ -5,3 +5,4 @@ Clique <a href="https://leopinheirosilva.github.io/projeto-android/">aqui</a> pa
 
 Ou leia o QR code abaixo:
 
+<img>
